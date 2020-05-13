@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Box</string>
+    <string name="starkwon">Stark Won</string>
+    <string name="stevewon">Steve Won</string>
+    <string name="tie">Tie</string>
+    <string name="thorwon">Thor won</string>
+    <string name="brucewon">Bruce won</string>
+</resources>
